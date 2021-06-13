@@ -2,4 +2,4 @@
 
 ***My Interests are limitless!***
 
-Visit [my portfolio](https://midhunvnadh.github.io) for more info :)
+Visit [my page](https://midhunvnadh.github.io) for more info :)

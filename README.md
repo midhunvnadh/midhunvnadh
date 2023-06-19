@@ -12,22 +12,12 @@ I'm Midhun V Nadh, a passionate full-stack developer from Kollam, Kerala, India.
 
 ## Tech Stack
 
-Here are some of the technologies I work with:
-
-- HTML5
-- CSS3
-- PHP
-- Linux
-- JavaScript
-- Typography
-- Python
-- Java
-- React
-- Bash
-- Git
-- Cloud
-- Creative Cloud
-- Raspberry Pi
+| Technology       | ~                  | ~                | ~                  |
+| ---------------- | ------------------ | ---------------- | ------------------ |
+| HTML5            | React              | Python           | Git                |
+| CSS3             | Bash               | Java             | Cloud              |
+| PHP              | Git                | JavaScript       | Creative Cloud     |
+| Linux            | Cloud              | Typography       | Raspberry Pi       |
 
 ## Connect with Me
 
